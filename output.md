@@ -11,5 +11,6 @@
 
 Here is a screenshot of the homepage:
 
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](screenshots/screenshot02.png)
+
 
