@@ -5,3 +5,11 @@
 3. Run the command `npm start` to start the application.
 4. Open a web browser and go to [http://localhost:3000](http://localhost:3000).
 5. The application homepage should be displayed.
+
+
+## Homepage
+
+Here is a screenshot of the homepage:
+
+![Homepage Screenshot](screenshots/homepage.png)
+
