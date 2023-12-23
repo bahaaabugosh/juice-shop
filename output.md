@@ -24,7 +24,8 @@ Fontend - src - assets- public - images- products-
 6. enter command git push
 7. in the application the image was changed screenshot attached
 
-!(screenshots/screenshot a.PNG)
+Here is a screenshot of the homepage with my image:
+![Homepage Screenshot](screenshots/screenshot111.png)
 
 
 
